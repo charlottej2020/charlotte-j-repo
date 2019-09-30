@@ -13,3 +13,17 @@ This text **is bold.**
 I *love* Rhysand.
 
 This text is ***very important***
+#### here are some fae males
+- rowan
+- rhys
+- fenrys
+- lorcan
+- gavriel
+- cassian
+- azriel
+- lucien
+
+# I **LOVE** Aelin
+1. Aelin
+1. Lysandra
+1. Mor
