@@ -1,8 +1,7 @@
-# charlotte-j-repo
-# peppaaa what are you doing in my repository
+# hey people it's my repository
+## peppaaa what are you doing in my repository
 
-
-###### Heading level 6
+### this is a test
 
 Markdown is fun.
 
@@ -23,7 +22,7 @@ This text is ***very important***
 - azriel
 - lucien
 
-# I **LOVE** Aelin
+##### I **LOVE** Aelin
 1. Aelin
 1. Lysandra
 1. Mor
